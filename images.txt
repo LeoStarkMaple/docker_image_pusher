@@ -9,3 +9,4 @@ python:3.9-alpine
 redis
 mysql:8
 jenkins/jenkins:2.464-jdk17
+paddlepaddle/paddle:2.6.2
